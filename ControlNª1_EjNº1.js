@@ -5,7 +5,7 @@
 
 
 
-//funcion,pedir al usuario que ingrese una palabra u oracion, letras
+//pedir al usuario que ingrese una palabra u oracion, letras
 let textoingresado = prompt("ingresa una palabra u oración:");
 //guardar, letras, contar caracteres, caracteres
 let contadortexto = textoingresado.length;
